@@ -23,6 +23,11 @@ header h1 {
     color: white;
 }
 
+/* Adjust color for Software Developer text */
+header p {
+    color: white;
+}
+
 nav {
     background-color: #444;
     padding: 1em 0;
